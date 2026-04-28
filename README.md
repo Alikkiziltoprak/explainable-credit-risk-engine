@@ -10,9 +10,9 @@ A machine learning pipeline to predict credit default risk with full explainabil
 
 
 
-\## 🚀 Live Demo
+\## 🚀 Live App
 
-\[Launch App](https://your-app.streamlit.app) ← \*(will be updated after deployment)\*
+\[Launch App](https://explainable-credit-risk-engine.streamlit.app/)
 
 
 
