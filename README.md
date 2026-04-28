@@ -60,23 +60,23 @@ By optimizing the decision threshold from 0.50 to 0.24:
 
 
 
-\## 📈 Key Visualizations
+## 📈 Key Visualizations
 
 
 
-\### SHAP Summary — XGBoost
+### SHAP Summary — XGBoost
 
-!\[SHAP Summary](images/shap\_summary\_xgb.png)
-
-
-
-\### Threshold Analysis — Precision / Recall / F1
-
-!\[Threshold Analysis](images/threshold\_analysis.png)
+![SHAP Summary](images/shap_summary_xgb.png)
 
 
 
-\### ROC Curve Comparison
+### Threshold Analysis — Precision / Recall / F1
 
-!\[ROC Curve](images/roc\_curve\_updated.png)
+![Threshold Analysis](images/threshold_analysis.png)
+
+
+
+### ROC Curve Comparison
+
+![ROC Curve](images/roc_curve_updated.png)
 
