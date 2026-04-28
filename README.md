@@ -56,7 +56,7 @@ By optimizing the decision threshold from 0.50 to 0.24:
 
 | Default losses | $14,508,000 | $9,918,000 |
 
-| Total financial cost | $14,657,400 | $10,530,450
+| Total financial cost | $14,657,400 | $10,530,450 |
 
 
 
